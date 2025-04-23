@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Controle_Escola:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Controle_Escola_jar</output-path>
+    <root id="archive" name="Controle_Escola.jar">
+      <element id="module-output" name="Controle_Escola" />
+    </root>
+  </artifact>
+</component>
